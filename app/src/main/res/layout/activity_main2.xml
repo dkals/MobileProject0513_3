@@ -7,7 +7,7 @@
 <!-- 리니어레이아웃안에 리니어레이아웃과 프레임레이아웃 생성
 프레임레이아웃에 리니어레이아웃 3개 겹칠예정-->
     <LinearLayout
-        android:layout_marginBottom="25dp"
+        android:layout_marginBottom="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
